@@ -1,16 +1,16 @@
 # MMRS: Multimodal Remote Sensing Image Classification
 
 
-![Figure 1: Structural diagram of the proposed MMRS in radar image classification.](https://github.com/Zhaolu-Hub/MMRS/blob/main/images/figure%201.png)
+![Figure 1: Structural diagram of the proposed MMRS in radar image classification.](https://github.com/Zhaolu-Hub/MMRS/blob/main/images/figure 1.png)
 
-![Figure 2: Comparison of results from different modal algorithms on the HS-LiDAR Houston2013 dataset.](https://github.com/Zhaolu-Hub/MMRS/blob/main/images/figure%202.png)
+![Figure 2: Comparison of results from different modal algorithms on the HS-LiDAR Houston2013 dataset.](https://github.com/Zhaolu-Hub/MMRS/blob/main/images/figure 2.png)
 
 
 
 ## Overview
 This repository contains the code for the paper titled "MMRS: Multimodal Remote Sensing Image Classification." The paper proposes a deep learning model based on multimodal fusion for remote sensing image classification. The model integrates convolutional neural networks (CNN), generative adversarial networks (GAN), and graph convolutional networks (GCN) to achieve superior classification performance on remote sensing data. 
 
-![Figure 3: Visual comparison with and without the MFF module.](https://github.com/Zhaolu-Hub/MMRS/blob/main/images/figure%203.png)
+![Figure 3: Visual comparison with and without the MFF module.](https://github.com/Zhaolu-Hub/MMRS/blob/main/images/figure 3.png)
 
 
 ## Abstract
